@@ -1,5 +1,5 @@
 # WeatherApp
 Simple weather app with AsyncTask
 
-![Альтернативный текст](http://www.picshare.ru/uploads/191029/IP0NKzAcs0.jpg)
-![Альтернативный текст](http://www.picshare.ru/uploads/191029/3LYmKrcXMy.jpg)
+![Альтернативный текст](https://i.ibb.co/PwnGTgf/Screenshot-1574448747.png)
+![Альтернативный текст](https://i.ibb.co/BG6pT7j/Screenshot-1574448707.png)
